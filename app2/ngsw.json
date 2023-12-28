@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1703806789488,
-  "index": "app2/index.html",
+  "timestamp": 1703807343331,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "app2/favicon.ico",
-        "app2/index.html",
-        "app2/main.5bc1f69d60556b50.js",
-        "app2/manifest.webmanifest",
-        "app2/polyfills.27f8985e3e379566.js",
-        "app2/runtime.bff6660e1f0f6362.js",
-        "app2/styles.164eed67867228a4.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main.5bc1f69d60556b50.js",
+        "/manifest.webmanifest",
+        "/polyfills.27f8985e3e379566.js",
+        "/runtime.bff6660e1f0f6362.js",
+        "/styles.164eed67867228a4.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "app2/assets/icons/icon-128x128.png",
-        "app2/assets/icons/icon-144x144.png",
-        "app2/assets/icons/icon-152x152.png",
-        "app2/assets/icons/icon-192x192.png",
-        "app2/assets/icons/icon-384x384.png",
-        "app2/assets/icons/icon-512x512.png",
-        "app2/assets/icons/icon-72x72.png",
-        "app2/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "app2/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "app2/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "app2/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "app2/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "app2/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "app2/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "app2/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "app2/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "app2/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "app2/index.html": "30ce5dee11001be50fac2acd60e289f25b2b687a",
-    "app2/main.5bc1f69d60556b50.js": "8b196c7a9da423fa25ee75993d29ebd4ea2a9810",
-    "app2/manifest.webmanifest": "c944a5756aeb6dd128aecc3637cabc5542f2167b",
-    "app2/polyfills.27f8985e3e379566.js": "d26d12c7699d0f9da900a652703d278ffa47ef24",
-    "app2/runtime.bff6660e1f0f6362.js": "a41a2f35d471f95dbb08e1349d662352a6d8b8f4",
-    "app2/styles.164eed67867228a4.css": "8e4af786c56857ad943a64719c9e60dc8197bfe3"
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "f71eec6c990f2cc813409f07e2bca400654ceb1e",
+    "/main.5bc1f69d60556b50.js": "8b196c7a9da423fa25ee75993d29ebd4ea2a9810",
+    "/manifest.webmanifest": "e330b98145e31eee532e8182fb3e939e8abc3c67",
+    "/polyfills.27f8985e3e379566.js": "d26d12c7699d0f9da900a652703d278ffa47ef24",
+    "/runtime.bff6660e1f0f6362.js": "a41a2f35d471f95dbb08e1349d662352a6d8b8f4",
+    "/styles.164eed67867228a4.css": "8e4af786c56857ad943a64719c9e60dc8197bfe3"
   },
   "navigationUrls": [
     {
