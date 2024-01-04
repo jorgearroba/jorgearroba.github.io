@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1704369387236,
-  "index": "C:/dev/utils/Git/app2/index.html",
+  "timestamp": 1704369863551,
+  "index": "app2/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -24,28 +24,28 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/dev/utils/Git/app2/assets/icons/icon-128x128.png",
-        "C:/dev/utils/Git/app2/assets/icons/icon-144x144.png",
-        "C:/dev/utils/Git/app2/assets/icons/icon-152x152.png",
-        "C:/dev/utils/Git/app2/assets/icons/icon-192x192.png",
-        "C:/dev/utils/Git/app2/assets/icons/icon-384x384.png",
-        "C:/dev/utils/Git/app2/assets/icons/icon-512x512.png",
-        "C:/dev/utils/Git/app2/assets/icons/icon-72x72.png",
-        "C:/dev/utils/Git/app2/assets/icons/icon-96x96.png"
+        "app2/assets/icons/icon-128x128.png",
+        "app2/assets/icons/icon-144x144.png",
+        "app2/assets/icons/icon-152x152.png",
+        "app2/assets/icons/icon-192x192.png",
+        "app2/assets/icons/icon-384x384.png",
+        "app2/assets/icons/icon-512x512.png",
+        "app2/assets/icons/icon-72x72.png",
+        "app2/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "C:/dev/utils/Git/app2/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "C:/dev/utils/Git/app2/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "C:/dev/utils/Git/app2/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "C:/dev/utils/Git/app2/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "C:/dev/utils/Git/app2/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "C:/dev/utils/Git/app2/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "C:/dev/utils/Git/app2/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "C:/dev/utils/Git/app2/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740"
+    "app2/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "app2/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "app2/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "app2/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "app2/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "app2/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "app2/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "app2/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740"
   },
   "navigationUrls": [
     {
